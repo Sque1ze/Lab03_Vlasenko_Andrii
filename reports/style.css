@@ -1,0 +1,19 @@
+:root{--ink:#203047;--quiet:#586c82;--teal:#168178;--blue:#3568a8;--light:#e8edf4}
+html{scroll-behavior:smooth}
+body{max-width:1080px;margin:0 auto;padding:3.2rem 4.4rem 5rem;line-height:1.65;font-size:16px;color:var(--ink);font-family:system-ui,-apple-system,'Segoe UI',Arial,sans-serif;background:#fff}
+#title-block-header{border-bottom:4px solid var(--teal);padding-bottom:1.65rem;margin-bottom:2.5rem}
+h1.title{font-size:2.3rem;letter-spacing:-.035em;line-height:1.19;margin:0 0 1rem;color:#122840}
+p.subtitle{font-size:1.15rem;color:var(--quiet);margin-top:0}
+p.author,p.date{color:var(--quiet)}
+h2{margin:3.3rem 0 1.1rem;padding-bottom:.45rem;border-bottom:2px solid var(--light);color:#153758;font-size:1.65rem}
+h3{margin:2.25rem 0 .7rem;color:var(--teal);font-size:1.19rem}
+p{margin:.83rem 0 1.15rem}li{margin:.35rem 0}strong{color:#183e60}
+blockquote{border-left:4px solid #d68d62;background:#fbf6f1;padding:.7rem 1.15rem;margin:1.5rem 0;color:#48566b}
+img{max-width:100%;height:auto;display:block;margin:.7rem auto .35rem;border:1px solid #e1e7ee;border-radius:9px}
+figcaption,.caption{color:#596c80;font-size:.91rem;text-align:center;margin-bottom:1.4rem}
+table{border-collapse:collapse;width:100%;display:table;font-size:.94rem;margin:1.3rem 0 1.95rem}thead{background:#eaf2f5;color:#1d3954}th,td{padding:.8rem .74rem;border-bottom:1px solid #d8e3eb;text-align:left}tbody tr:nth-child(even){background:#f9fbfd}
+a{color:#216b9e;text-decoration:none}a:hover{text-decoration:underline}
+code{font-size:.91em;background:#eef2f7;border-radius:4px;padding:.1rem .3rem}pre{background:#f1f4f8;padding:1rem;border-radius:7px;overflow:auto}pre code{background:transparent}
+#TOC{border:1px solid #dfe8ee;border-radius:12px;background:#f7fafc;padding:1.1rem 1.7rem;margin:1.5rem 0 2.5rem}#TOC ul{padding-left:1.4rem}#TOC a{font-size:.94rem}
+@media(max-width:700px){body{padding:1rem}h1.title{font-size:1.8rem}table{font-size:.78rem}th,td{padding:.42rem}}
+@media print{body{max-width:none;padding:0;font-size:12px}#TOC{display:none}h2{page-break-after:avoid}img{max-height:10cm;object-fit:contain}a{color:inherit}}

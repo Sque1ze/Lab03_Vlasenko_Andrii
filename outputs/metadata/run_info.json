@@ -1,0 +1,36 @@
+{
+  "dataset": "Gapminder 1952–2007, Plotly Express bundled historical extract",
+  "data_sha256": "0498cce7d87c500724e82b8bd57f2221dd68e374e0863cf627523e00573f857a",
+  "target": "lifeExp (years)",
+  "unit_of_observation": "country-year",
+  "seed": 42,
+  "holdout": "GroupShuffleSplit countries, 25% test",
+  "cv": "GroupKFold 5 splits, by country",
+  "selection_metric": "mean CV RMSE",
+  "selected_model": "Взаємодія",
+  "selected_formula": "lifeExp ~ log10_gdp * C(continent) + year_5",
+  "base_formula": "lifeExp ~ log10_gdp + year_5 + C(continent)",
+  "n_train": 1272,
+  "n_test": 432,
+  "countries_train": 106,
+  "countries_test": 36,
+  "eda_warning": "Lab02 inspected full data; holdout is not perfectly blind in a scientific sense",
+  "diagnostics": {
+    "bp_lm_p_value": 2.2796903426807523e-14,
+    "bp_f_p_value": 8.564199160094094e-15,
+    "cook_threshold_4_over_n": 0.0031446540880503146,
+    "n_cook_above_threshold": 59,
+    "max_cook_distance": 0.022651344931583457,
+    "base_training_r_squared": 0.7985990127755048
+  },
+  "test_selected": {
+    "model": "Взаємодія",
+    "MAE": 4.423606966778693,
+    "RMSE": 5.972275892851713
+  },
+  "test_baseline": {
+    "model": "Орієнтир",
+    "MAE": 11.619903328092244,
+    "RMSE": 13.177746447329861
+  }
+}

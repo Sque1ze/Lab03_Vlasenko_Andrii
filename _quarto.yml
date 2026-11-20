@@ -1,0 +1,7 @@
+project:
+  type: default
+  execute-dir: project
+  render:
+    - reports/report.qmd
+
+lang: uk

@@ -1,0 +1,1705 @@
+country,year,continent,split
+Afghanistan,1952,Asia,train
+Afghanistan,1957,Asia,train
+Afghanistan,1962,Asia,train
+Afghanistan,1967,Asia,train
+Afghanistan,1972,Asia,train
+Afghanistan,1977,Asia,train
+Afghanistan,1982,Asia,train
+Afghanistan,1987,Asia,train
+Afghanistan,1992,Asia,train
+Afghanistan,1997,Asia,train
+Afghanistan,2002,Asia,train
+Afghanistan,2007,Asia,train
+Albania,1952,Europe,train
+Albania,1957,Europe,train
+Albania,1962,Europe,train
+Albania,1967,Europe,train
+Albania,1972,Europe,train
+Albania,1977,Europe,train
+Albania,1982,Europe,train
+Albania,1987,Europe,train
+Albania,1992,Europe,train
+Albania,1997,Europe,train
+Albania,2002,Europe,train
+Albania,2007,Europe,train
+Algeria,1952,Africa,train
+Algeria,1957,Africa,train
+Algeria,1962,Africa,train
+Algeria,1967,Africa,train
+Algeria,1972,Africa,train
+Algeria,1977,Africa,train
+Algeria,1982,Africa,train
+Algeria,1987,Africa,train
+Algeria,1992,Africa,train
+Algeria,1997,Africa,train
+Algeria,2002,Africa,train
+Algeria,2007,Africa,train
+Angola,1952,Africa,train
+Angola,1957,Africa,train
+Angola,1962,Africa,train
+Angola,1967,Africa,train
+Angola,1972,Africa,train
+Angola,1977,Africa,train
+Angola,1982,Africa,train
+Angola,1987,Africa,train
+Angola,1992,Africa,train
+Angola,1997,Africa,train
+Angola,2002,Africa,train
+Angola,2007,Africa,train
+Argentina,1952,Americas,test
+Argentina,1957,Americas,test
+Argentina,1962,Americas,test
+Argentina,1967,Americas,test
+Argentina,1972,Americas,test
+Argentina,1977,Americas,test
+Argentina,1982,Americas,test
+Argentina,1987,Americas,test
+Argentina,1992,Americas,test
+Argentina,1997,Americas,test
+Argentina,2002,Americas,test
+Argentina,2007,Americas,test
+Australia,1952,Oceania,train
+Australia,1957,Oceania,train
+Australia,1962,Oceania,train
+Australia,1967,Oceania,train
+Australia,1972,Oceania,train
+Australia,1977,Oceania,train
+Australia,1982,Oceania,train
+Australia,1987,Oceania,train
+Australia,1992,Oceania,train
+Australia,1997,Oceania,train
+Australia,2002,Oceania,train
+Australia,2007,Oceania,train
+Austria,1952,Europe,train
+Austria,1957,Europe,train
+Austria,1962,Europe,train
+Austria,1967,Europe,train
+Austria,1972,Europe,train
+Austria,1977,Europe,train
+Austria,1982,Europe,train
+Austria,1987,Europe,train
+Austria,1992,Europe,train
+Austria,1997,Europe,train
+Austria,2002,Europe,train
+Austria,2007,Europe,train
+Bahrain,1952,Asia,train
+Bahrain,1957,Asia,train
+Bahrain,1962,Asia,train
+Bahrain,1967,Asia,train
+Bahrain,1972,Asia,train
+Bahrain,1977,Asia,train
+Bahrain,1982,Asia,train
+Bahrain,1987,Asia,train
+Bahrain,1992,Asia,train
+Bahrain,1997,Asia,train
+Bahrain,2002,Asia,train
+Bahrain,2007,Asia,train
+Bangladesh,1952,Asia,train
+Bangladesh,1957,Asia,train
+Bangladesh,1962,Asia,train
+Bangladesh,1967,Asia,train
+Bangladesh,1972,Asia,train
+Bangladesh,1977,Asia,train
+Bangladesh,1982,Asia,train
+Bangladesh,1987,Asia,train
+Bangladesh,1992,Asia,train
+Bangladesh,1997,Asia,train
+Bangladesh,2002,Asia,train
+Bangladesh,2007,Asia,train
+Belgium,1952,Europe,test
+Belgium,1957,Europe,test
+Belgium,1962,Europe,test
+Belgium,1967,Europe,test
+Belgium,1972,Europe,test
+Belgium,1977,Europe,test
+Belgium,1982,Europe,test
+Belgium,1987,Europe,test
+Belgium,1992,Europe,test
+Belgium,1997,Europe,test
+Belgium,2002,Europe,test
+Belgium,2007,Europe,test
+Benin,1952,Africa,test
+Benin,1957,Africa,test
+Benin,1962,Africa,test
+Benin,1967,Africa,test
+Benin,1972,Africa,test
+Benin,1977,Africa,test
+Benin,1982,Africa,test
+Benin,1987,Africa,test
+Benin,1992,Africa,test
+Benin,1997,Africa,test
+Benin,2002,Africa,test
+Benin,2007,Africa,test
+Bolivia,1952,Americas,test
+Bolivia,1957,Americas,test
+Bolivia,1962,Americas,test
+Bolivia,1967,Americas,test
+Bolivia,1972,Americas,test
+Bolivia,1977,Americas,test
+Bolivia,1982,Americas,test
+Bolivia,1987,Americas,test
+Bolivia,1992,Americas,test
+Bolivia,1997,Americas,test
+Bolivia,2002,Americas,test
+Bolivia,2007,Americas,test
+Bosnia and Herzegovina,1952,Europe,test
+Bosnia and Herzegovina,1957,Europe,test
+Bosnia and Herzegovina,1962,Europe,test
+Bosnia and Herzegovina,1967,Europe,test
+Bosnia and Herzegovina,1972,Europe,test
+Bosnia and Herzegovina,1977,Europe,test
+Bosnia and Herzegovina,1982,Europe,test
+Bosnia and Herzegovina,1987,Europe,test
+Bosnia and Herzegovina,1992,Europe,test
+Bosnia and Herzegovina,1997,Europe,test
+Bosnia and Herzegovina,2002,Europe,test
+Bosnia and Herzegovina,2007,Europe,test
+Botswana,1952,Africa,train
+Botswana,1957,Africa,train
+Botswana,1962,Africa,train
+Botswana,1967,Africa,train
+Botswana,1972,Africa,train
+Botswana,1977,Africa,train
+Botswana,1982,Africa,train
+Botswana,1987,Africa,train
+Botswana,1992,Africa,train
+Botswana,1997,Africa,train
+Botswana,2002,Africa,train
+Botswana,2007,Africa,train
+Brazil,1952,Americas,train
+Brazil,1957,Americas,train
+Brazil,1962,Americas,train
+Brazil,1967,Americas,train
+Brazil,1972,Americas,train
+Brazil,1977,Americas,train
+Brazil,1982,Americas,train
+Brazil,1987,Americas,train
+Brazil,1992,Americas,train
+Brazil,1997,Americas,train
+Brazil,2002,Americas,train
+Brazil,2007,Americas,train
+Bulgaria,1952,Europe,train
+Bulgaria,1957,Europe,train
+Bulgaria,1962,Europe,train
+Bulgaria,1967,Europe,train
+Bulgaria,1972,Europe,train
+Bulgaria,1977,Europe,train
+Bulgaria,1982,Europe,train
+Bulgaria,1987,Europe,train
+Bulgaria,1992,Europe,train
+Bulgaria,1997,Europe,train
+Bulgaria,2002,Europe,train
+Bulgaria,2007,Europe,train
+Burkina Faso,1952,Africa,test
+Burkina Faso,1957,Africa,test
+Burkina Faso,1962,Africa,test
+Burkina Faso,1967,Africa,test
+Burkina Faso,1972,Africa,test
+Burkina Faso,1977,Africa,test
+Burkina Faso,1982,Africa,test
+Burkina Faso,1987,Africa,test
+Burkina Faso,1992,Africa,test
+Burkina Faso,1997,Africa,test
+Burkina Faso,2002,Africa,test
+Burkina Faso,2007,Africa,test
+Burundi,1952,Africa,train
+Burundi,1957,Africa,train
+Burundi,1962,Africa,train
+Burundi,1967,Africa,train
+Burundi,1972,Africa,train
+Burundi,1977,Africa,train
+Burundi,1982,Africa,train
+Burundi,1987,Africa,train
+Burundi,1992,Africa,train
+Burundi,1997,Africa,train
+Burundi,2002,Africa,train
+Burundi,2007,Africa,train
+Cambodia,1952,Asia,test
+Cambodia,1957,Asia,test
+Cambodia,1962,Asia,test
+Cambodia,1967,Asia,test
+Cambodia,1972,Asia,test
+Cambodia,1977,Asia,test
+Cambodia,1982,Asia,test
+Cambodia,1987,Asia,test
+Cambodia,1992,Asia,test
+Cambodia,1997,Asia,test
+Cambodia,2002,Asia,test
+Cambodia,2007,Asia,test
+Cameroon,1952,Africa,test
+Cameroon,1957,Africa,test
+Cameroon,1962,Africa,test
+Cameroon,1967,Africa,test
+Cameroon,1972,Africa,test
+Cameroon,1977,Africa,test
+Cameroon,1982,Africa,test
+Cameroon,1987,Africa,test
+Cameroon,1992,Africa,test
+Cameroon,1997,Africa,test
+Cameroon,2002,Africa,test
+Cameroon,2007,Africa,test
+Canada,1952,Americas,train
+Canada,1957,Americas,train
+Canada,1962,Americas,train
+Canada,1967,Americas,train
+Canada,1972,Americas,train
+Canada,1977,Americas,train
+Canada,1982,Americas,train
+Canada,1987,Americas,train
+Canada,1992,Americas,train
+Canada,1997,Americas,train
+Canada,2002,Americas,train
+Canada,2007,Americas,train
+Central African Republic,1952,Africa,train
+Central African Republic,1957,Africa,train
+Central African Republic,1962,Africa,train
+Central African Republic,1967,Africa,train
+Central African Republic,1972,Africa,train
+Central African Republic,1977,Africa,train
+Central African Republic,1982,Africa,train
+Central African Republic,1987,Africa,train
+Central African Republic,1992,Africa,train
+Central African Republic,1997,Africa,train
+Central African Republic,2002,Africa,train
+Central African Republic,2007,Africa,train
+Chad,1952,Africa,train
+Chad,1957,Africa,train
+Chad,1962,Africa,train
+Chad,1967,Africa,train
+Chad,1972,Africa,train
+Chad,1977,Africa,train
+Chad,1982,Africa,train
+Chad,1987,Africa,train
+Chad,1992,Africa,train
+Chad,1997,Africa,train
+Chad,2002,Africa,train
+Chad,2007,Africa,train
+Chile,1952,Americas,train
+Chile,1957,Americas,train
+Chile,1962,Americas,train
+Chile,1967,Americas,train
+Chile,1972,Americas,train
+Chile,1977,Americas,train
+Chile,1982,Americas,train
+Chile,1987,Americas,train
+Chile,1992,Americas,train
+Chile,1997,Americas,train
+Chile,2002,Americas,train
+Chile,2007,Americas,train
+China,1952,Asia,train
+China,1957,Asia,train
+China,1962,Asia,train
+China,1967,Asia,train
+China,1972,Asia,train
+China,1977,Asia,train
+China,1982,Asia,train
+China,1987,Asia,train
+China,1992,Asia,train
+China,1997,Asia,train
+China,2002,Asia,train
+China,2007,Asia,train
+Colombia,1952,Americas,train
+Colombia,1957,Americas,train
+Colombia,1962,Americas,train
+Colombia,1967,Americas,train
+Colombia,1972,Americas,train
+Colombia,1977,Americas,train
+Colombia,1982,Americas,train
+Colombia,1987,Americas,train
+Colombia,1992,Americas,train
+Colombia,1997,Americas,train
+Colombia,2002,Americas,train
+Colombia,2007,Americas,train
+Comoros,1952,Africa,test
+Comoros,1957,Africa,test
+Comoros,1962,Africa,test
+Comoros,1967,Africa,test
+Comoros,1972,Africa,test
+Comoros,1977,Africa,test
+Comoros,1982,Africa,test
+Comoros,1987,Africa,test
+Comoros,1992,Africa,test
+Comoros,1997,Africa,test
+Comoros,2002,Africa,test
+Comoros,2007,Africa,test
+"Congo, Dem. Rep.",1952,Africa,test
+"Congo, Dem. Rep.",1957,Africa,test
+"Congo, Dem. Rep.",1962,Africa,test
+"Congo, Dem. Rep.",1967,Africa,test
+"Congo, Dem. Rep.",1972,Africa,test
+"Congo, Dem. Rep.",1977,Africa,test
+"Congo, Dem. Rep.",1982,Africa,test
+"Congo, Dem. Rep.",1987,Africa,test
+"Congo, Dem. Rep.",1992,Africa,test
+"Congo, Dem. Rep.",1997,Africa,test
+"Congo, Dem. Rep.",2002,Africa,test
+"Congo, Dem. Rep.",2007,Africa,test
+"Congo, Rep.",1952,Africa,train
+"Congo, Rep.",1957,Africa,train
+"Congo, Rep.",1962,Africa,train
+"Congo, Rep.",1967,Africa,train
+"Congo, Rep.",1972,Africa,train
+"Congo, Rep.",1977,Africa,train
+"Congo, Rep.",1982,Africa,train
+"Congo, Rep.",1987,Africa,train
+"Congo, Rep.",1992,Africa,train
+"Congo, Rep.",1997,Africa,train
+"Congo, Rep.",2002,Africa,train
+"Congo, Rep.",2007,Africa,train
+Costa Rica,1952,Americas,train
+Costa Rica,1957,Americas,train
+Costa Rica,1962,Americas,train
+Costa Rica,1967,Americas,train
+Costa Rica,1972,Americas,train
+Costa Rica,1977,Americas,train
+Costa Rica,1982,Americas,train
+Costa Rica,1987,Americas,train
+Costa Rica,1992,Americas,train
+Costa Rica,1997,Americas,train
+Costa Rica,2002,Americas,train
+Costa Rica,2007,Americas,train
+Cote d'Ivoire,1952,Africa,train
+Cote d'Ivoire,1957,Africa,train
+Cote d'Ivoire,1962,Africa,train
+Cote d'Ivoire,1967,Africa,train
+Cote d'Ivoire,1972,Africa,train
+Cote d'Ivoire,1977,Africa,train
+Cote d'Ivoire,1982,Africa,train
+Cote d'Ivoire,1987,Africa,train
+Cote d'Ivoire,1992,Africa,train
+Cote d'Ivoire,1997,Africa,train
+Cote d'Ivoire,2002,Africa,train
+Cote d'Ivoire,2007,Africa,train
+Croatia,1952,Europe,test
+Croatia,1957,Europe,test
+Croatia,1962,Europe,test
+Croatia,1967,Europe,test
+Croatia,1972,Europe,test
+Croatia,1977,Europe,test
+Croatia,1982,Europe,test
+Croatia,1987,Europe,test
+Croatia,1992,Europe,test
+Croatia,1997,Europe,test
+Croatia,2002,Europe,test
+Croatia,2007,Europe,test
+Cuba,1952,Americas,train
+Cuba,1957,Americas,train
+Cuba,1962,Americas,train
+Cuba,1967,Americas,train
+Cuba,1972,Americas,train
+Cuba,1977,Americas,train
+Cuba,1982,Americas,train
+Cuba,1987,Americas,train
+Cuba,1992,Americas,train
+Cuba,1997,Americas,train
+Cuba,2002,Americas,train
+Cuba,2007,Americas,train
+Czech Republic,1952,Europe,train
+Czech Republic,1957,Europe,train
+Czech Republic,1962,Europe,train
+Czech Republic,1967,Europe,train
+Czech Republic,1972,Europe,train
+Czech Republic,1977,Europe,train
+Czech Republic,1982,Europe,train
+Czech Republic,1987,Europe,train
+Czech Republic,1992,Europe,train
+Czech Republic,1997,Europe,train
+Czech Republic,2002,Europe,train
+Czech Republic,2007,Europe,train
+Denmark,1952,Europe,train
+Denmark,1957,Europe,train
+Denmark,1962,Europe,train
+Denmark,1967,Europe,train
+Denmark,1972,Europe,train
+Denmark,1977,Europe,train
+Denmark,1982,Europe,train
+Denmark,1987,Europe,train
+Denmark,1992,Europe,train
+Denmark,1997,Europe,train
+Denmark,2002,Europe,train
+Denmark,2007,Europe,train
+Djibouti,1952,Africa,train
+Djibouti,1957,Africa,train
+Djibouti,1962,Africa,train
+Djibouti,1967,Africa,train
+Djibouti,1972,Africa,train
+Djibouti,1977,Africa,train
+Djibouti,1982,Africa,train
+Djibouti,1987,Africa,train
+Djibouti,1992,Africa,train
+Djibouti,1997,Africa,train
+Djibouti,2002,Africa,train
+Djibouti,2007,Africa,train
+Dominican Republic,1952,Americas,test
+Dominican Republic,1957,Americas,test
+Dominican Republic,1962,Americas,test
+Dominican Republic,1967,Americas,test
+Dominican Republic,1972,Americas,test
+Dominican Republic,1977,Americas,test
+Dominican Republic,1982,Americas,test
+Dominican Republic,1987,Americas,test
+Dominican Republic,1992,Americas,test
+Dominican Republic,1997,Americas,test
+Dominican Republic,2002,Americas,test
+Dominican Republic,2007,Americas,test
+Ecuador,1952,Americas,train
+Ecuador,1957,Americas,train
+Ecuador,1962,Americas,train
+Ecuador,1967,Americas,train
+Ecuador,1972,Americas,train
+Ecuador,1977,Americas,train
+Ecuador,1982,Americas,train
+Ecuador,1987,Americas,train
+Ecuador,1992,Americas,train
+Ecuador,1997,Americas,train
+Ecuador,2002,Americas,train
+Ecuador,2007,Americas,train
+Egypt,1952,Africa,train
+Egypt,1957,Africa,train
+Egypt,1962,Africa,train
+Egypt,1967,Africa,train
+Egypt,1972,Africa,train
+Egypt,1977,Africa,train
+Egypt,1982,Africa,train
+Egypt,1987,Africa,train
+Egypt,1992,Africa,train
+Egypt,1997,Africa,train
+Egypt,2002,Africa,train
+Egypt,2007,Africa,train
+El Salvador,1952,Americas,train
+El Salvador,1957,Americas,train
+El Salvador,1962,Americas,train
+El Salvador,1967,Americas,train
+El Salvador,1972,Americas,train
+El Salvador,1977,Americas,train
+El Salvador,1982,Americas,train
+El Salvador,1987,Americas,train
+El Salvador,1992,Americas,train
+El Salvador,1997,Americas,train
+El Salvador,2002,Americas,train
+El Salvador,2007,Americas,train
+Equatorial Guinea,1952,Africa,train
+Equatorial Guinea,1957,Africa,train
+Equatorial Guinea,1962,Africa,train
+Equatorial Guinea,1967,Africa,train
+Equatorial Guinea,1972,Africa,train
+Equatorial Guinea,1977,Africa,train
+Equatorial Guinea,1982,Africa,train
+Equatorial Guinea,1987,Africa,train
+Equatorial Guinea,1992,Africa,train
+Equatorial Guinea,1997,Africa,train
+Equatorial Guinea,2002,Africa,train
+Equatorial Guinea,2007,Africa,train
+Eritrea,1952,Africa,train
+Eritrea,1957,Africa,train
+Eritrea,1962,Africa,train
+Eritrea,1967,Africa,train
+Eritrea,1972,Africa,train
+Eritrea,1977,Africa,train
+Eritrea,1982,Africa,train
+Eritrea,1987,Africa,train
+Eritrea,1992,Africa,train
+Eritrea,1997,Africa,train
+Eritrea,2002,Africa,train
+Eritrea,2007,Africa,train
+Ethiopia,1952,Africa,train
+Ethiopia,1957,Africa,train
+Ethiopia,1962,Africa,train
+Ethiopia,1967,Africa,train
+Ethiopia,1972,Africa,train
+Ethiopia,1977,Africa,train
+Ethiopia,1982,Africa,train
+Ethiopia,1987,Africa,train
+Ethiopia,1992,Africa,train
+Ethiopia,1997,Africa,train
+Ethiopia,2002,Africa,train
+Ethiopia,2007,Africa,train
+Finland,1952,Europe,train
+Finland,1957,Europe,train
+Finland,1962,Europe,train
+Finland,1967,Europe,train
+Finland,1972,Europe,train
+Finland,1977,Europe,train
+Finland,1982,Europe,train
+Finland,1987,Europe,train
+Finland,1992,Europe,train
+Finland,1997,Europe,train
+Finland,2002,Europe,train
+Finland,2007,Europe,train
+France,1952,Europe,train
+France,1957,Europe,train
+France,1962,Europe,train
+France,1967,Europe,train
+France,1972,Europe,train
+France,1977,Europe,train
+France,1982,Europe,train
+France,1987,Europe,train
+France,1992,Europe,train
+France,1997,Europe,train
+France,2002,Europe,train
+France,2007,Europe,train
+Gabon,1952,Africa,test
+Gabon,1957,Africa,test
+Gabon,1962,Africa,test
+Gabon,1967,Africa,test
+Gabon,1972,Africa,test
+Gabon,1977,Africa,test
+Gabon,1982,Africa,test
+Gabon,1987,Africa,test
+Gabon,1992,Africa,test
+Gabon,1997,Africa,test
+Gabon,2002,Africa,test
+Gabon,2007,Africa,test
+Gambia,1952,Africa,train
+Gambia,1957,Africa,train
+Gambia,1962,Africa,train
+Gambia,1967,Africa,train
+Gambia,1972,Africa,train
+Gambia,1977,Africa,train
+Gambia,1982,Africa,train
+Gambia,1987,Africa,train
+Gambia,1992,Africa,train
+Gambia,1997,Africa,train
+Gambia,2002,Africa,train
+Gambia,2007,Africa,train
+Germany,1952,Europe,train
+Germany,1957,Europe,train
+Germany,1962,Europe,train
+Germany,1967,Europe,train
+Germany,1972,Europe,train
+Germany,1977,Europe,train
+Germany,1982,Europe,train
+Germany,1987,Europe,train
+Germany,1992,Europe,train
+Germany,1997,Europe,train
+Germany,2002,Europe,train
+Germany,2007,Europe,train
+Ghana,1952,Africa,train
+Ghana,1957,Africa,train
+Ghana,1962,Africa,train
+Ghana,1967,Africa,train
+Ghana,1972,Africa,train
+Ghana,1977,Africa,train
+Ghana,1982,Africa,train
+Ghana,1987,Africa,train
+Ghana,1992,Africa,train
+Ghana,1997,Africa,train
+Ghana,2002,Africa,train
+Ghana,2007,Africa,train
+Greece,1952,Europe,train
+Greece,1957,Europe,train
+Greece,1962,Europe,train
+Greece,1967,Europe,train
+Greece,1972,Europe,train
+Greece,1977,Europe,train
+Greece,1982,Europe,train
+Greece,1987,Europe,train
+Greece,1992,Europe,train
+Greece,1997,Europe,train
+Greece,2002,Europe,train
+Greece,2007,Europe,train
+Guatemala,1952,Americas,train
+Guatemala,1957,Americas,train
+Guatemala,1962,Americas,train
+Guatemala,1967,Americas,train
+Guatemala,1972,Americas,train
+Guatemala,1977,Americas,train
+Guatemala,1982,Americas,train
+Guatemala,1987,Americas,train
+Guatemala,1992,Americas,train
+Guatemala,1997,Americas,train
+Guatemala,2002,Americas,train
+Guatemala,2007,Americas,train
+Guinea,1952,Africa,test
+Guinea,1957,Africa,test
+Guinea,1962,Africa,test
+Guinea,1967,Africa,test
+Guinea,1972,Africa,test
+Guinea,1977,Africa,test
+Guinea,1982,Africa,test
+Guinea,1987,Africa,test
+Guinea,1992,Africa,test
+Guinea,1997,Africa,test
+Guinea,2002,Africa,test
+Guinea,2007,Africa,test
+Guinea-Bissau,1952,Africa,train
+Guinea-Bissau,1957,Africa,train
+Guinea-Bissau,1962,Africa,train
+Guinea-Bissau,1967,Africa,train
+Guinea-Bissau,1972,Africa,train
+Guinea-Bissau,1977,Africa,train
+Guinea-Bissau,1982,Africa,train
+Guinea-Bissau,1987,Africa,train
+Guinea-Bissau,1992,Africa,train
+Guinea-Bissau,1997,Africa,train
+Guinea-Bissau,2002,Africa,train
+Guinea-Bissau,2007,Africa,train
+Haiti,1952,Americas,train
+Haiti,1957,Americas,train
+Haiti,1962,Americas,train
+Haiti,1967,Americas,train
+Haiti,1972,Americas,train
+Haiti,1977,Americas,train
+Haiti,1982,Americas,train
+Haiti,1987,Americas,train
+Haiti,1992,Americas,train
+Haiti,1997,Americas,train
+Haiti,2002,Americas,train
+Haiti,2007,Americas,train
+Honduras,1952,Americas,train
+Honduras,1957,Americas,train
+Honduras,1962,Americas,train
+Honduras,1967,Americas,train
+Honduras,1972,Americas,train
+Honduras,1977,Americas,train
+Honduras,1982,Americas,train
+Honduras,1987,Americas,train
+Honduras,1992,Americas,train
+Honduras,1997,Americas,train
+Honduras,2002,Americas,train
+Honduras,2007,Americas,train
+"Hong Kong, China",1952,Asia,test
+"Hong Kong, China",1957,Asia,test
+"Hong Kong, China",1962,Asia,test
+"Hong Kong, China",1967,Asia,test
+"Hong Kong, China",1972,Asia,test
+"Hong Kong, China",1977,Asia,test
+"Hong Kong, China",1982,Asia,test
+"Hong Kong, China",1987,Asia,test
+"Hong Kong, China",1992,Asia,test
+"Hong Kong, China",1997,Asia,test
+"Hong Kong, China",2002,Asia,test
+"Hong Kong, China",2007,Asia,test
+Hungary,1952,Europe,test
+Hungary,1957,Europe,test
+Hungary,1962,Europe,test
+Hungary,1967,Europe,test
+Hungary,1972,Europe,test
+Hungary,1977,Europe,test
+Hungary,1982,Europe,test
+Hungary,1987,Europe,test
+Hungary,1992,Europe,test
+Hungary,1997,Europe,test
+Hungary,2002,Europe,test
+Hungary,2007,Europe,test
+Iceland,1952,Europe,train
+Iceland,1957,Europe,train
+Iceland,1962,Europe,train
+Iceland,1967,Europe,train
+Iceland,1972,Europe,train
+Iceland,1977,Europe,train
+Iceland,1982,Europe,train
+Iceland,1987,Europe,train
+Iceland,1992,Europe,train
+Iceland,1997,Europe,train
+Iceland,2002,Europe,train
+Iceland,2007,Europe,train
+India,1952,Asia,train
+India,1957,Asia,train
+India,1962,Asia,train
+India,1967,Asia,train
+India,1972,Asia,train
+India,1977,Asia,train
+India,1982,Asia,train
+India,1987,Asia,train
+India,1992,Asia,train
+India,1997,Asia,train
+India,2002,Asia,train
+India,2007,Asia,train
+Indonesia,1952,Asia,train
+Indonesia,1957,Asia,train
+Indonesia,1962,Asia,train
+Indonesia,1967,Asia,train
+Indonesia,1972,Asia,train
+Indonesia,1977,Asia,train
+Indonesia,1982,Asia,train
+Indonesia,1987,Asia,train
+Indonesia,1992,Asia,train
+Indonesia,1997,Asia,train
+Indonesia,2002,Asia,train
+Indonesia,2007,Asia,train
+Iran,1952,Asia,train
+Iran,1957,Asia,train
+Iran,1962,Asia,train
+Iran,1967,Asia,train
+Iran,1972,Asia,train
+Iran,1977,Asia,train
+Iran,1982,Asia,train
+Iran,1987,Asia,train
+Iran,1992,Asia,train
+Iran,1997,Asia,train
+Iran,2002,Asia,train
+Iran,2007,Asia,train
+Iraq,1952,Asia,train
+Iraq,1957,Asia,train
+Iraq,1962,Asia,train
+Iraq,1967,Asia,train
+Iraq,1972,Asia,train
+Iraq,1977,Asia,train
+Iraq,1982,Asia,train
+Iraq,1987,Asia,train
+Iraq,1992,Asia,train
+Iraq,1997,Asia,train
+Iraq,2002,Asia,train
+Iraq,2007,Asia,train
+Ireland,1952,Europe,train
+Ireland,1957,Europe,train
+Ireland,1962,Europe,train
+Ireland,1967,Europe,train
+Ireland,1972,Europe,train
+Ireland,1977,Europe,train
+Ireland,1982,Europe,train
+Ireland,1987,Europe,train
+Ireland,1992,Europe,train
+Ireland,1997,Europe,train
+Ireland,2002,Europe,train
+Ireland,2007,Europe,train
+Israel,1952,Asia,train
+Israel,1957,Asia,train
+Israel,1962,Asia,train
+Israel,1967,Asia,train
+Israel,1972,Asia,train
+Israel,1977,Asia,train
+Israel,1982,Asia,train
+Israel,1987,Asia,train
+Israel,1992,Asia,train
+Israel,1997,Asia,train
+Israel,2002,Asia,train
+Israel,2007,Asia,train
+Italy,1952,Europe,test
+Italy,1957,Europe,test
+Italy,1962,Europe,test
+Italy,1967,Europe,test
+Italy,1972,Europe,test
+Italy,1977,Europe,test
+Italy,1982,Europe,test
+Italy,1987,Europe,test
+Italy,1992,Europe,test
+Italy,1997,Europe,test
+Italy,2002,Europe,test
+Italy,2007,Europe,test
+Jamaica,1952,Americas,test
+Jamaica,1957,Americas,test
+Jamaica,1962,Americas,test
+Jamaica,1967,Americas,test
+Jamaica,1972,Americas,test
+Jamaica,1977,Americas,test
+Jamaica,1982,Americas,test
+Jamaica,1987,Americas,test
+Jamaica,1992,Americas,test
+Jamaica,1997,Americas,test
+Jamaica,2002,Americas,test
+Jamaica,2007,Americas,test
+Japan,1952,Asia,test
+Japan,1957,Asia,test
+Japan,1962,Asia,test
+Japan,1967,Asia,test
+Japan,1972,Asia,test
+Japan,1977,Asia,test
+Japan,1982,Asia,test
+Japan,1987,Asia,test
+Japan,1992,Asia,test
+Japan,1997,Asia,test
+Japan,2002,Asia,test
+Japan,2007,Asia,test
+Jordan,1952,Asia,train
+Jordan,1957,Asia,train
+Jordan,1962,Asia,train
+Jordan,1967,Asia,train
+Jordan,1972,Asia,train
+Jordan,1977,Asia,train
+Jordan,1982,Asia,train
+Jordan,1987,Asia,train
+Jordan,1992,Asia,train
+Jordan,1997,Asia,train
+Jordan,2002,Asia,train
+Jordan,2007,Asia,train
+Kenya,1952,Africa,train
+Kenya,1957,Africa,train
+Kenya,1962,Africa,train
+Kenya,1967,Africa,train
+Kenya,1972,Africa,train
+Kenya,1977,Africa,train
+Kenya,1982,Africa,train
+Kenya,1987,Africa,train
+Kenya,1992,Africa,train
+Kenya,1997,Africa,train
+Kenya,2002,Africa,train
+Kenya,2007,Africa,train
+"Korea, Dem. Rep.",1952,Asia,test
+"Korea, Dem. Rep.",1957,Asia,test
+"Korea, Dem. Rep.",1962,Asia,test
+"Korea, Dem. Rep.",1967,Asia,test
+"Korea, Dem. Rep.",1972,Asia,test
+"Korea, Dem. Rep.",1977,Asia,test
+"Korea, Dem. Rep.",1982,Asia,test
+"Korea, Dem. Rep.",1987,Asia,test
+"Korea, Dem. Rep.",1992,Asia,test
+"Korea, Dem. Rep.",1997,Asia,test
+"Korea, Dem. Rep.",2002,Asia,test
+"Korea, Dem. Rep.",2007,Asia,test
+"Korea, Rep.",1952,Asia,train
+"Korea, Rep.",1957,Asia,train
+"Korea, Rep.",1962,Asia,train
+"Korea, Rep.",1967,Asia,train
+"Korea, Rep.",1972,Asia,train
+"Korea, Rep.",1977,Asia,train
+"Korea, Rep.",1982,Asia,train
+"Korea, Rep.",1987,Asia,train
+"Korea, Rep.",1992,Asia,train
+"Korea, Rep.",1997,Asia,train
+"Korea, Rep.",2002,Asia,train
+"Korea, Rep.",2007,Asia,train
+Kuwait,1952,Asia,train
+Kuwait,1957,Asia,train
+Kuwait,1962,Asia,train
+Kuwait,1967,Asia,train
+Kuwait,1972,Asia,train
+Kuwait,1977,Asia,train
+Kuwait,1982,Asia,train
+Kuwait,1987,Asia,train
+Kuwait,1992,Asia,train
+Kuwait,1997,Asia,train
+Kuwait,2002,Asia,train
+Kuwait,2007,Asia,train
+Lebanon,1952,Asia,train
+Lebanon,1957,Asia,train
+Lebanon,1962,Asia,train
+Lebanon,1967,Asia,train
+Lebanon,1972,Asia,train
+Lebanon,1977,Asia,train
+Lebanon,1982,Asia,train
+Lebanon,1987,Asia,train
+Lebanon,1992,Asia,train
+Lebanon,1997,Asia,train
+Lebanon,2002,Asia,train
+Lebanon,2007,Asia,train
+Lesotho,1952,Africa,test
+Lesotho,1957,Africa,test
+Lesotho,1962,Africa,test
+Lesotho,1967,Africa,test
+Lesotho,1972,Africa,test
+Lesotho,1977,Africa,test
+Lesotho,1982,Africa,test
+Lesotho,1987,Africa,test
+Lesotho,1992,Africa,test
+Lesotho,1997,Africa,test
+Lesotho,2002,Africa,test
+Lesotho,2007,Africa,test
+Liberia,1952,Africa,train
+Liberia,1957,Africa,train
+Liberia,1962,Africa,train
+Liberia,1967,Africa,train
+Liberia,1972,Africa,train
+Liberia,1977,Africa,train
+Liberia,1982,Africa,train
+Liberia,1987,Africa,train
+Liberia,1992,Africa,train
+Liberia,1997,Africa,train
+Liberia,2002,Africa,train
+Liberia,2007,Africa,train
+Libya,1952,Africa,train
+Libya,1957,Africa,train
+Libya,1962,Africa,train
+Libya,1967,Africa,train
+Libya,1972,Africa,train
+Libya,1977,Africa,train
+Libya,1982,Africa,train
+Libya,1987,Africa,train
+Libya,1992,Africa,train
+Libya,1997,Africa,train
+Libya,2002,Africa,train
+Libya,2007,Africa,train
+Madagascar,1952,Africa,train
+Madagascar,1957,Africa,train
+Madagascar,1962,Africa,train
+Madagascar,1967,Africa,train
+Madagascar,1972,Africa,train
+Madagascar,1977,Africa,train
+Madagascar,1982,Africa,train
+Madagascar,1987,Africa,train
+Madagascar,1992,Africa,train
+Madagascar,1997,Africa,train
+Madagascar,2002,Africa,train
+Madagascar,2007,Africa,train
+Malawi,1952,Africa,test
+Malawi,1957,Africa,test
+Malawi,1962,Africa,test
+Malawi,1967,Africa,test
+Malawi,1972,Africa,test
+Malawi,1977,Africa,test
+Malawi,1982,Africa,test
+Malawi,1987,Africa,test
+Malawi,1992,Africa,test
+Malawi,1997,Africa,test
+Malawi,2002,Africa,test
+Malawi,2007,Africa,test
+Malaysia,1952,Asia,train
+Malaysia,1957,Asia,train
+Malaysia,1962,Asia,train
+Malaysia,1967,Asia,train
+Malaysia,1972,Asia,train
+Malaysia,1977,Asia,train
+Malaysia,1982,Asia,train
+Malaysia,1987,Asia,train
+Malaysia,1992,Asia,train
+Malaysia,1997,Asia,train
+Malaysia,2002,Asia,train
+Malaysia,2007,Asia,train
+Mali,1952,Africa,train
+Mali,1957,Africa,train
+Mali,1962,Africa,train
+Mali,1967,Africa,train
+Mali,1972,Africa,train
+Mali,1977,Africa,train
+Mali,1982,Africa,train
+Mali,1987,Africa,train
+Mali,1992,Africa,train
+Mali,1997,Africa,train
+Mali,2002,Africa,train
+Mali,2007,Africa,train
+Mauritania,1952,Africa,train
+Mauritania,1957,Africa,train
+Mauritania,1962,Africa,train
+Mauritania,1967,Africa,train
+Mauritania,1972,Africa,train
+Mauritania,1977,Africa,train
+Mauritania,1982,Africa,train
+Mauritania,1987,Africa,train
+Mauritania,1992,Africa,train
+Mauritania,1997,Africa,train
+Mauritania,2002,Africa,train
+Mauritania,2007,Africa,train
+Mauritius,1952,Africa,test
+Mauritius,1957,Africa,test
+Mauritius,1962,Africa,test
+Mauritius,1967,Africa,test
+Mauritius,1972,Africa,test
+Mauritius,1977,Africa,test
+Mauritius,1982,Africa,test
+Mauritius,1987,Africa,test
+Mauritius,1992,Africa,test
+Mauritius,1997,Africa,test
+Mauritius,2002,Africa,test
+Mauritius,2007,Africa,test
+Mexico,1952,Americas,train
+Mexico,1957,Americas,train
+Mexico,1962,Americas,train
+Mexico,1967,Americas,train
+Mexico,1972,Americas,train
+Mexico,1977,Americas,train
+Mexico,1982,Americas,train
+Mexico,1987,Americas,train
+Mexico,1992,Americas,train
+Mexico,1997,Americas,train
+Mexico,2002,Americas,train
+Mexico,2007,Americas,train
+Mongolia,1952,Asia,train
+Mongolia,1957,Asia,train
+Mongolia,1962,Asia,train
+Mongolia,1967,Asia,train
+Mongolia,1972,Asia,train
+Mongolia,1977,Asia,train
+Mongolia,1982,Asia,train
+Mongolia,1987,Asia,train
+Mongolia,1992,Asia,train
+Mongolia,1997,Asia,train
+Mongolia,2002,Asia,train
+Mongolia,2007,Asia,train
+Montenegro,1952,Europe,train
+Montenegro,1957,Europe,train
+Montenegro,1962,Europe,train
+Montenegro,1967,Europe,train
+Montenegro,1972,Europe,train
+Montenegro,1977,Europe,train
+Montenegro,1982,Europe,train
+Montenegro,1987,Europe,train
+Montenegro,1992,Europe,train
+Montenegro,1997,Europe,train
+Montenegro,2002,Europe,train
+Montenegro,2007,Europe,train
+Morocco,1952,Africa,train
+Morocco,1957,Africa,train
+Morocco,1962,Africa,train
+Morocco,1967,Africa,train
+Morocco,1972,Africa,train
+Morocco,1977,Africa,train
+Morocco,1982,Africa,train
+Morocco,1987,Africa,train
+Morocco,1992,Africa,train
+Morocco,1997,Africa,train
+Morocco,2002,Africa,train
+Morocco,2007,Africa,train
+Mozambique,1952,Africa,train
+Mozambique,1957,Africa,train
+Mozambique,1962,Africa,train
+Mozambique,1967,Africa,train
+Mozambique,1972,Africa,train
+Mozambique,1977,Africa,train
+Mozambique,1982,Africa,train
+Mozambique,1987,Africa,train
+Mozambique,1992,Africa,train
+Mozambique,1997,Africa,train
+Mozambique,2002,Africa,train
+Mozambique,2007,Africa,train
+Myanmar,1952,Asia,train
+Myanmar,1957,Asia,train
+Myanmar,1962,Asia,train
+Myanmar,1967,Asia,train
+Myanmar,1972,Asia,train
+Myanmar,1977,Asia,train
+Myanmar,1982,Asia,train
+Myanmar,1987,Asia,train
+Myanmar,1992,Asia,train
+Myanmar,1997,Asia,train
+Myanmar,2002,Asia,train
+Myanmar,2007,Asia,train
+Namibia,1952,Africa,train
+Namibia,1957,Africa,train
+Namibia,1962,Africa,train
+Namibia,1967,Africa,train
+Namibia,1972,Africa,train
+Namibia,1977,Africa,train
+Namibia,1982,Africa,train
+Namibia,1987,Africa,train
+Namibia,1992,Africa,train
+Namibia,1997,Africa,train
+Namibia,2002,Africa,train
+Namibia,2007,Africa,train
+Nepal,1952,Asia,train
+Nepal,1957,Asia,train
+Nepal,1962,Asia,train
+Nepal,1967,Asia,train
+Nepal,1972,Asia,train
+Nepal,1977,Asia,train
+Nepal,1982,Asia,train
+Nepal,1987,Asia,train
+Nepal,1992,Asia,train
+Nepal,1997,Asia,train
+Nepal,2002,Asia,train
+Nepal,2007,Asia,train
+Netherlands,1952,Europe,train
+Netherlands,1957,Europe,train
+Netherlands,1962,Europe,train
+Netherlands,1967,Europe,train
+Netherlands,1972,Europe,train
+Netherlands,1977,Europe,train
+Netherlands,1982,Europe,train
+Netherlands,1987,Europe,train
+Netherlands,1992,Europe,train
+Netherlands,1997,Europe,train
+Netherlands,2002,Europe,train
+Netherlands,2007,Europe,train
+New Zealand,1952,Oceania,train
+New Zealand,1957,Oceania,train
+New Zealand,1962,Oceania,train
+New Zealand,1967,Oceania,train
+New Zealand,1972,Oceania,train
+New Zealand,1977,Oceania,train
+New Zealand,1982,Oceania,train
+New Zealand,1987,Oceania,train
+New Zealand,1992,Oceania,train
+New Zealand,1997,Oceania,train
+New Zealand,2002,Oceania,train
+New Zealand,2007,Oceania,train
+Nicaragua,1952,Americas,train
+Nicaragua,1957,Americas,train
+Nicaragua,1962,Americas,train
+Nicaragua,1967,Americas,train
+Nicaragua,1972,Americas,train
+Nicaragua,1977,Americas,train
+Nicaragua,1982,Americas,train
+Nicaragua,1987,Americas,train
+Nicaragua,1992,Americas,train
+Nicaragua,1997,Americas,train
+Nicaragua,2002,Americas,train
+Nicaragua,2007,Americas,train
+Niger,1952,Africa,test
+Niger,1957,Africa,test
+Niger,1962,Africa,test
+Niger,1967,Africa,test
+Niger,1972,Africa,test
+Niger,1977,Africa,test
+Niger,1982,Africa,test
+Niger,1987,Africa,test
+Niger,1992,Africa,test
+Niger,1997,Africa,test
+Niger,2002,Africa,test
+Niger,2007,Africa,test
+Nigeria,1952,Africa,train
+Nigeria,1957,Africa,train
+Nigeria,1962,Africa,train
+Nigeria,1967,Africa,train
+Nigeria,1972,Africa,train
+Nigeria,1977,Africa,train
+Nigeria,1982,Africa,train
+Nigeria,1987,Africa,train
+Nigeria,1992,Africa,train
+Nigeria,1997,Africa,train
+Nigeria,2002,Africa,train
+Nigeria,2007,Africa,train
+Norway,1952,Europe,train
+Norway,1957,Europe,train
+Norway,1962,Europe,train
+Norway,1967,Europe,train
+Norway,1972,Europe,train
+Norway,1977,Europe,train
+Norway,1982,Europe,train
+Norway,1987,Europe,train
+Norway,1992,Europe,train
+Norway,1997,Europe,train
+Norway,2002,Europe,train
+Norway,2007,Europe,train
+Oman,1952,Asia,test
+Oman,1957,Asia,test
+Oman,1962,Asia,test
+Oman,1967,Asia,test
+Oman,1972,Asia,test
+Oman,1977,Asia,test
+Oman,1982,Asia,test
+Oman,1987,Asia,test
+Oman,1992,Asia,test
+Oman,1997,Asia,test
+Oman,2002,Asia,test
+Oman,2007,Asia,test
+Pakistan,1952,Asia,test
+Pakistan,1957,Asia,test
+Pakistan,1962,Asia,test
+Pakistan,1967,Asia,test
+Pakistan,1972,Asia,test
+Pakistan,1977,Asia,test
+Pakistan,1982,Asia,test
+Pakistan,1987,Asia,test
+Pakistan,1992,Asia,test
+Pakistan,1997,Asia,test
+Pakistan,2002,Asia,test
+Pakistan,2007,Asia,test
+Panama,1952,Americas,test
+Panama,1957,Americas,test
+Panama,1962,Americas,test
+Panama,1967,Americas,test
+Panama,1972,Americas,test
+Panama,1977,Americas,test
+Panama,1982,Americas,test
+Panama,1987,Americas,test
+Panama,1992,Americas,test
+Panama,1997,Americas,test
+Panama,2002,Americas,test
+Panama,2007,Americas,test
+Paraguay,1952,Americas,train
+Paraguay,1957,Americas,train
+Paraguay,1962,Americas,train
+Paraguay,1967,Americas,train
+Paraguay,1972,Americas,train
+Paraguay,1977,Americas,train
+Paraguay,1982,Americas,train
+Paraguay,1987,Americas,train
+Paraguay,1992,Americas,train
+Paraguay,1997,Americas,train
+Paraguay,2002,Americas,train
+Paraguay,2007,Americas,train
+Peru,1952,Americas,train
+Peru,1957,Americas,train
+Peru,1962,Americas,train
+Peru,1967,Americas,train
+Peru,1972,Americas,train
+Peru,1977,Americas,train
+Peru,1982,Americas,train
+Peru,1987,Americas,train
+Peru,1992,Americas,train
+Peru,1997,Americas,train
+Peru,2002,Americas,train
+Peru,2007,Americas,train
+Philippines,1952,Asia,train
+Philippines,1957,Asia,train
+Philippines,1962,Asia,train
+Philippines,1967,Asia,train
+Philippines,1972,Asia,train
+Philippines,1977,Asia,train
+Philippines,1982,Asia,train
+Philippines,1987,Asia,train
+Philippines,1992,Asia,train
+Philippines,1997,Asia,train
+Philippines,2002,Asia,train
+Philippines,2007,Asia,train
+Poland,1952,Europe,train
+Poland,1957,Europe,train
+Poland,1962,Europe,train
+Poland,1967,Europe,train
+Poland,1972,Europe,train
+Poland,1977,Europe,train
+Poland,1982,Europe,train
+Poland,1987,Europe,train
+Poland,1992,Europe,train
+Poland,1997,Europe,train
+Poland,2002,Europe,train
+Poland,2007,Europe,train
+Portugal,1952,Europe,train
+Portugal,1957,Europe,train
+Portugal,1962,Europe,train
+Portugal,1967,Europe,train
+Portugal,1972,Europe,train
+Portugal,1977,Europe,train
+Portugal,1982,Europe,train
+Portugal,1987,Europe,train
+Portugal,1992,Europe,train
+Portugal,1997,Europe,train
+Portugal,2002,Europe,train
+Portugal,2007,Europe,train
+Puerto Rico,1952,Americas,train
+Puerto Rico,1957,Americas,train
+Puerto Rico,1962,Americas,train
+Puerto Rico,1967,Americas,train
+Puerto Rico,1972,Americas,train
+Puerto Rico,1977,Americas,train
+Puerto Rico,1982,Americas,train
+Puerto Rico,1987,Americas,train
+Puerto Rico,1992,Americas,train
+Puerto Rico,1997,Americas,train
+Puerto Rico,2002,Americas,train
+Puerto Rico,2007,Americas,train
+Reunion,1952,Africa,train
+Reunion,1957,Africa,train
+Reunion,1962,Africa,train
+Reunion,1967,Africa,train
+Reunion,1972,Africa,train
+Reunion,1977,Africa,train
+Reunion,1982,Africa,train
+Reunion,1987,Africa,train
+Reunion,1992,Africa,train
+Reunion,1997,Africa,train
+Reunion,2002,Africa,train
+Reunion,2007,Africa,train
+Romania,1952,Europe,train
+Romania,1957,Europe,train
+Romania,1962,Europe,train
+Romania,1967,Europe,train
+Romania,1972,Europe,train
+Romania,1977,Europe,train
+Romania,1982,Europe,train
+Romania,1987,Europe,train
+Romania,1992,Europe,train
+Romania,1997,Europe,train
+Romania,2002,Europe,train
+Romania,2007,Europe,train
+Rwanda,1952,Africa,train
+Rwanda,1957,Africa,train
+Rwanda,1962,Africa,train
+Rwanda,1967,Africa,train
+Rwanda,1972,Africa,train
+Rwanda,1977,Africa,train
+Rwanda,1982,Africa,train
+Rwanda,1987,Africa,train
+Rwanda,1992,Africa,train
+Rwanda,1997,Africa,train
+Rwanda,2002,Africa,train
+Rwanda,2007,Africa,train
+Sao Tome and Principe,1952,Africa,train
+Sao Tome and Principe,1957,Africa,train
+Sao Tome and Principe,1962,Africa,train
+Sao Tome and Principe,1967,Africa,train
+Sao Tome and Principe,1972,Africa,train
+Sao Tome and Principe,1977,Africa,train
+Sao Tome and Principe,1982,Africa,train
+Sao Tome and Principe,1987,Africa,train
+Sao Tome and Principe,1992,Africa,train
+Sao Tome and Principe,1997,Africa,train
+Sao Tome and Principe,2002,Africa,train
+Sao Tome and Principe,2007,Africa,train
+Saudi Arabia,1952,Asia,test
+Saudi Arabia,1957,Asia,test
+Saudi Arabia,1962,Asia,test
+Saudi Arabia,1967,Asia,test
+Saudi Arabia,1972,Asia,test
+Saudi Arabia,1977,Asia,test
+Saudi Arabia,1982,Asia,test
+Saudi Arabia,1987,Asia,test
+Saudi Arabia,1992,Asia,test
+Saudi Arabia,1997,Asia,test
+Saudi Arabia,2002,Asia,test
+Saudi Arabia,2007,Asia,test
+Senegal,1952,Africa,train
+Senegal,1957,Africa,train
+Senegal,1962,Africa,train
+Senegal,1967,Africa,train
+Senegal,1972,Africa,train
+Senegal,1977,Africa,train
+Senegal,1982,Africa,train
+Senegal,1987,Africa,train
+Senegal,1992,Africa,train
+Senegal,1997,Africa,train
+Senegal,2002,Africa,train
+Senegal,2007,Africa,train
+Serbia,1952,Europe,train
+Serbia,1957,Europe,train
+Serbia,1962,Europe,train
+Serbia,1967,Europe,train
+Serbia,1972,Europe,train
+Serbia,1977,Europe,train
+Serbia,1982,Europe,train
+Serbia,1987,Europe,train
+Serbia,1992,Europe,train
+Serbia,1997,Europe,train
+Serbia,2002,Europe,train
+Serbia,2007,Europe,train
+Sierra Leone,1952,Africa,test
+Sierra Leone,1957,Africa,test
+Sierra Leone,1962,Africa,test
+Sierra Leone,1967,Africa,test
+Sierra Leone,1972,Africa,test
+Sierra Leone,1977,Africa,test
+Sierra Leone,1982,Africa,test
+Sierra Leone,1987,Africa,test
+Sierra Leone,1992,Africa,test
+Sierra Leone,1997,Africa,test
+Sierra Leone,2002,Africa,test
+Sierra Leone,2007,Africa,test
+Singapore,1952,Asia,train
+Singapore,1957,Asia,train
+Singapore,1962,Asia,train
+Singapore,1967,Asia,train
+Singapore,1972,Asia,train
+Singapore,1977,Asia,train
+Singapore,1982,Asia,train
+Singapore,1987,Asia,train
+Singapore,1992,Asia,train
+Singapore,1997,Asia,train
+Singapore,2002,Asia,train
+Singapore,2007,Asia,train
+Slovak Republic,1952,Europe,train
+Slovak Republic,1957,Europe,train
+Slovak Republic,1962,Europe,train
+Slovak Republic,1967,Europe,train
+Slovak Republic,1972,Europe,train
+Slovak Republic,1977,Europe,train
+Slovak Republic,1982,Europe,train
+Slovak Republic,1987,Europe,train
+Slovak Republic,1992,Europe,train
+Slovak Republic,1997,Europe,train
+Slovak Republic,2002,Europe,train
+Slovak Republic,2007,Europe,train
+Slovenia,1952,Europe,test
+Slovenia,1957,Europe,test
+Slovenia,1962,Europe,test
+Slovenia,1967,Europe,test
+Slovenia,1972,Europe,test
+Slovenia,1977,Europe,test
+Slovenia,1982,Europe,test
+Slovenia,1987,Europe,test
+Slovenia,1992,Europe,test
+Slovenia,1997,Europe,test
+Slovenia,2002,Europe,test
+Slovenia,2007,Europe,test
+Somalia,1952,Africa,train
+Somalia,1957,Africa,train
+Somalia,1962,Africa,train
+Somalia,1967,Africa,train
+Somalia,1972,Africa,train
+Somalia,1977,Africa,train
+Somalia,1982,Africa,train
+Somalia,1987,Africa,train
+Somalia,1992,Africa,train
+Somalia,1997,Africa,train
+Somalia,2002,Africa,train
+Somalia,2007,Africa,train
+South Africa,1952,Africa,train
+South Africa,1957,Africa,train
+South Africa,1962,Africa,train
+South Africa,1967,Africa,train
+South Africa,1972,Africa,train
+South Africa,1977,Africa,train
+South Africa,1982,Africa,train
+South Africa,1987,Africa,train
+South Africa,1992,Africa,train
+South Africa,1997,Africa,train
+South Africa,2002,Africa,train
+South Africa,2007,Africa,train
+Spain,1952,Europe,test
+Spain,1957,Europe,test
+Spain,1962,Europe,test
+Spain,1967,Europe,test
+Spain,1972,Europe,test
+Spain,1977,Europe,test
+Spain,1982,Europe,test
+Spain,1987,Europe,test
+Spain,1992,Europe,test
+Spain,1997,Europe,test
+Spain,2002,Europe,test
+Spain,2007,Europe,test
+Sri Lanka,1952,Asia,train
+Sri Lanka,1957,Asia,train
+Sri Lanka,1962,Asia,train
+Sri Lanka,1967,Asia,train
+Sri Lanka,1972,Asia,train
+Sri Lanka,1977,Asia,train
+Sri Lanka,1982,Asia,train
+Sri Lanka,1987,Asia,train
+Sri Lanka,1992,Asia,train
+Sri Lanka,1997,Asia,train
+Sri Lanka,2002,Asia,train
+Sri Lanka,2007,Asia,train
+Sudan,1952,Africa,train
+Sudan,1957,Africa,train
+Sudan,1962,Africa,train
+Sudan,1967,Africa,train
+Sudan,1972,Africa,train
+Sudan,1977,Africa,train
+Sudan,1982,Africa,train
+Sudan,1987,Africa,train
+Sudan,1992,Africa,train
+Sudan,1997,Africa,train
+Sudan,2002,Africa,train
+Sudan,2007,Africa,train
+Swaziland,1952,Africa,train
+Swaziland,1957,Africa,train
+Swaziland,1962,Africa,train
+Swaziland,1967,Africa,train
+Swaziland,1972,Africa,train
+Swaziland,1977,Africa,train
+Swaziland,1982,Africa,train
+Swaziland,1987,Africa,train
+Swaziland,1992,Africa,train
+Swaziland,1997,Africa,train
+Swaziland,2002,Africa,train
+Swaziland,2007,Africa,train
+Sweden,1952,Europe,train
+Sweden,1957,Europe,train
+Sweden,1962,Europe,train
+Sweden,1967,Europe,train
+Sweden,1972,Europe,train
+Sweden,1977,Europe,train
+Sweden,1982,Europe,train
+Sweden,1987,Europe,train
+Sweden,1992,Europe,train
+Sweden,1997,Europe,train
+Sweden,2002,Europe,train
+Sweden,2007,Europe,train
+Switzerland,1952,Europe,test
+Switzerland,1957,Europe,test
+Switzerland,1962,Europe,test
+Switzerland,1967,Europe,test
+Switzerland,1972,Europe,test
+Switzerland,1977,Europe,test
+Switzerland,1982,Europe,test
+Switzerland,1987,Europe,test
+Switzerland,1992,Europe,test
+Switzerland,1997,Europe,test
+Switzerland,2002,Europe,test
+Switzerland,2007,Europe,test
+Syria,1952,Asia,test
+Syria,1957,Asia,test
+Syria,1962,Asia,test
+Syria,1967,Asia,test
+Syria,1972,Asia,test
+Syria,1977,Asia,test
+Syria,1982,Asia,test
+Syria,1987,Asia,test
+Syria,1992,Asia,test
+Syria,1997,Asia,test
+Syria,2002,Asia,test
+Syria,2007,Asia,test
+Taiwan,1952,Asia,train
+Taiwan,1957,Asia,train
+Taiwan,1962,Asia,train
+Taiwan,1967,Asia,train
+Taiwan,1972,Asia,train
+Taiwan,1977,Asia,train
+Taiwan,1982,Asia,train
+Taiwan,1987,Asia,train
+Taiwan,1992,Asia,train
+Taiwan,1997,Asia,train
+Taiwan,2002,Asia,train
+Taiwan,2007,Asia,train
+Tanzania,1952,Africa,train
+Tanzania,1957,Africa,train
+Tanzania,1962,Africa,train
+Tanzania,1967,Africa,train
+Tanzania,1972,Africa,train
+Tanzania,1977,Africa,train
+Tanzania,1982,Africa,train
+Tanzania,1987,Africa,train
+Tanzania,1992,Africa,train
+Tanzania,1997,Africa,train
+Tanzania,2002,Africa,train
+Tanzania,2007,Africa,train
+Thailand,1952,Asia,train
+Thailand,1957,Asia,train
+Thailand,1962,Asia,train
+Thailand,1967,Asia,train
+Thailand,1972,Asia,train
+Thailand,1977,Asia,train
+Thailand,1982,Asia,train
+Thailand,1987,Asia,train
+Thailand,1992,Asia,train
+Thailand,1997,Asia,train
+Thailand,2002,Asia,train
+Thailand,2007,Asia,train
+Togo,1952,Africa,train
+Togo,1957,Africa,train
+Togo,1962,Africa,train
+Togo,1967,Africa,train
+Togo,1972,Africa,train
+Togo,1977,Africa,train
+Togo,1982,Africa,train
+Togo,1987,Africa,train
+Togo,1992,Africa,train
+Togo,1997,Africa,train
+Togo,2002,Africa,train
+Togo,2007,Africa,train
+Trinidad and Tobago,1952,Americas,train
+Trinidad and Tobago,1957,Americas,train
+Trinidad and Tobago,1962,Americas,train
+Trinidad and Tobago,1967,Americas,train
+Trinidad and Tobago,1972,Americas,train
+Trinidad and Tobago,1977,Americas,train
+Trinidad and Tobago,1982,Americas,train
+Trinidad and Tobago,1987,Americas,train
+Trinidad and Tobago,1992,Americas,train
+Trinidad and Tobago,1997,Americas,train
+Trinidad and Tobago,2002,Americas,train
+Trinidad and Tobago,2007,Americas,train
+Tunisia,1952,Africa,test
+Tunisia,1957,Africa,test
+Tunisia,1962,Africa,test
+Tunisia,1967,Africa,test
+Tunisia,1972,Africa,test
+Tunisia,1977,Africa,test
+Tunisia,1982,Africa,test
+Tunisia,1987,Africa,test
+Tunisia,1992,Africa,test
+Tunisia,1997,Africa,test
+Tunisia,2002,Africa,test
+Tunisia,2007,Africa,test
+Turkey,1952,Europe,test
+Turkey,1957,Europe,test
+Turkey,1962,Europe,test
+Turkey,1967,Europe,test
+Turkey,1972,Europe,test
+Turkey,1977,Europe,test
+Turkey,1982,Europe,test
+Turkey,1987,Europe,test
+Turkey,1992,Europe,test
+Turkey,1997,Europe,test
+Turkey,2002,Europe,test
+Turkey,2007,Europe,test
+Uganda,1952,Africa,train
+Uganda,1957,Africa,train
+Uganda,1962,Africa,train
+Uganda,1967,Africa,train
+Uganda,1972,Africa,train
+Uganda,1977,Africa,train
+Uganda,1982,Africa,train
+Uganda,1987,Africa,train
+Uganda,1992,Africa,train
+Uganda,1997,Africa,train
+Uganda,2002,Africa,train
+Uganda,2007,Africa,train
+United Kingdom,1952,Europe,train
+United Kingdom,1957,Europe,train
+United Kingdom,1962,Europe,train
+United Kingdom,1967,Europe,train
+United Kingdom,1972,Europe,train
+United Kingdom,1977,Europe,train
+United Kingdom,1982,Europe,train
+United Kingdom,1987,Europe,train
+United Kingdom,1992,Europe,train
+United Kingdom,1997,Europe,train
+United Kingdom,2002,Europe,train
+United Kingdom,2007,Europe,train
+United States,1952,Americas,train
+United States,1957,Americas,train
+United States,1962,Americas,train
+United States,1967,Americas,train
+United States,1972,Americas,train
+United States,1977,Americas,train
+United States,1982,Americas,train
+United States,1987,Americas,train
+United States,1992,Americas,train
+United States,1997,Americas,train
+United States,2002,Americas,train
+United States,2007,Americas,train
+Uruguay,1952,Americas,train
+Uruguay,1957,Americas,train
+Uruguay,1962,Americas,train
+Uruguay,1967,Americas,train
+Uruguay,1972,Americas,train
+Uruguay,1977,Americas,train
+Uruguay,1982,Americas,train
+Uruguay,1987,Americas,train
+Uruguay,1992,Americas,train
+Uruguay,1997,Americas,train
+Uruguay,2002,Americas,train
+Uruguay,2007,Americas,train
+Venezuela,1952,Americas,train
+Venezuela,1957,Americas,train
+Venezuela,1962,Americas,train
+Venezuela,1967,Americas,train
+Venezuela,1972,Americas,train
+Venezuela,1977,Americas,train
+Venezuela,1982,Americas,train
+Venezuela,1987,Americas,train
+Venezuela,1992,Americas,train
+Venezuela,1997,Americas,train
+Venezuela,2002,Americas,train
+Venezuela,2007,Americas,train
+Vietnam,1952,Asia,train
+Vietnam,1957,Asia,train
+Vietnam,1962,Asia,train
+Vietnam,1967,Asia,train
+Vietnam,1972,Asia,train
+Vietnam,1977,Asia,train
+Vietnam,1982,Asia,train
+Vietnam,1987,Asia,train
+Vietnam,1992,Asia,train
+Vietnam,1997,Asia,train
+Vietnam,2002,Asia,train
+Vietnam,2007,Asia,train
+West Bank and Gaza,1952,Asia,train
+West Bank and Gaza,1957,Asia,train
+West Bank and Gaza,1962,Asia,train
+West Bank and Gaza,1967,Asia,train
+West Bank and Gaza,1972,Asia,train
+West Bank and Gaza,1977,Asia,train
+West Bank and Gaza,1982,Asia,train
+West Bank and Gaza,1987,Asia,train
+West Bank and Gaza,1992,Asia,train
+West Bank and Gaza,1997,Asia,train
+West Bank and Gaza,2002,Asia,train
+West Bank and Gaza,2007,Asia,train
+"Yemen, Rep.",1952,Asia,train
+"Yemen, Rep.",1957,Asia,train
+"Yemen, Rep.",1962,Asia,train
+"Yemen, Rep.",1967,Asia,train
+"Yemen, Rep.",1972,Asia,train
+"Yemen, Rep.",1977,Asia,train
+"Yemen, Rep.",1982,Asia,train
+"Yemen, Rep.",1987,Asia,train
+"Yemen, Rep.",1992,Asia,train
+"Yemen, Rep.",1997,Asia,train
+"Yemen, Rep.",2002,Asia,train
+"Yemen, Rep.",2007,Asia,train
+Zambia,1952,Africa,test
+Zambia,1957,Africa,test
+Zambia,1962,Africa,test
+Zambia,1967,Africa,test
+Zambia,1972,Africa,test
+Zambia,1977,Africa,test
+Zambia,1982,Africa,test
+Zambia,1987,Africa,test
+Zambia,1992,Africa,test
+Zambia,1997,Africa,test
+Zambia,2002,Africa,test
+Zambia,2007,Africa,test
+Zimbabwe,1952,Africa,train
+Zimbabwe,1957,Africa,train
+Zimbabwe,1962,Africa,train
+Zimbabwe,1967,Africa,train
+Zimbabwe,1972,Africa,train
+Zimbabwe,1977,Africa,train
+Zimbabwe,1982,Africa,train
+Zimbabwe,1987,Africa,train
+Zimbabwe,1992,Africa,train
+Zimbabwe,1997,Africa,train
+Zimbabwe,2002,Africa,train
+Zimbabwe,2007,Africa,train

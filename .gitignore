@@ -1,0 +1,19 @@
+# Віртуальне середовище та кеші Python
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Локальна/тимчасова робота Quarto
+.quarto/
+_freeze/
+*_files/
+*.quarto_ipynb
+
+# IDE
+.vscode/
+.idea/

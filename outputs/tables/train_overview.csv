@@ -1,0 +1,2 @@
+n_train,n_countries_train,n_test,n_countries_test,train_lifeExp_mean,train_lifeExp_median,train_lifeExp_std,train_lifeExp_min,train_lifeExp_max,train_logGDP_lifeExp_pearson_r,missing_values,duplicate_country_year
+1272,106,432,36,59.597138113,60.653500000,12.828099714,23.599000000,81.757000000,0.803433531,0,0

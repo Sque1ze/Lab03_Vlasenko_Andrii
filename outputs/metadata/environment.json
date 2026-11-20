@@ -1,0 +1,22 @@
+{
+  "python": "3.13.5",
+  "platform_of_build": "Linux",
+  "pandoc_fallback": "pandoc 3.1.11.1",
+  "quarto_cli": "unavailable in build environment; render on user PC",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "statsmodels": "0.14.6",
+    "ipython": "9.14.0",
+    "ipykernel": "7.2.0",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.4",
+    "notebook": "7.5.3",
+    "python-pptx": "1.0.2",
+    "Pillow": "12.3.0",
+    "plotly": "6.5.2"
+  }
+}
